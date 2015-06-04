@@ -1,0 +1,16 @@
+/* Local Fonts */
+
+@font-face {
+    font-family: 'ALS Rubl';
+    font-style: normal;
+    font-weight: normal;
+    src: local(''), url('rouble.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'ALS Rubl';
+    font-style: normal;
+    font-weight: normal;
+    src: local(''), url('rouble.otf') format('otf');
+}
+
